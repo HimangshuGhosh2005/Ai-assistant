@@ -1,0 +1,2 @@
+# Ai assistant 
+AI-Powered Research Assistant using LangChain and Chain of Thought Prompting Developed an intelligent research assistant using LangChain and the Google Gemini API, integrating Chain of Thought prompting, ChromaDB, and RAG for accurate information retrieval and summarization. Implemented DuckDuckGo Search for real-time data access and modular agent logic for reasoning and validation.
