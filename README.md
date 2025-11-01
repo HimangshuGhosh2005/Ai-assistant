@@ -22,10 +22,12 @@ It leverages Google Gemini API, ChromaDB, and DuckDuckGo Search to create a stru
 💻 Google Colab Compatible – Easy to run, modify, and experiment with interactive notebooks.
 
 🏗️ Tech Stack
-Component	Technology
-Programming Language	Python
-Framework	LangChain
-Language Model	Google Gemini (via langchain-google-genai)
-Database	ChromaDB
-Search Engine	DuckDuckGo Search
-Development	Google Colab
+| Component            | Technology                                   |
+| -------------------- | -------------------------------------------- |
+| Programming Language | Python                                       |
+| Framework            | LangChain                                    |
+| Language Model       | Google Gemini (via `langchain-google-genai`) |
+| Database             | ChromaDB                                     |
+| Search Engine        | DuckDuckGo Search                            |
+| Development          | Google Colab                                 |
+
